@@ -1,5 +1,4 @@
 #install.packages("pheatmap")
-Dataset<-"LIHC"
 
 #setwd("C:/")
 rt=read.table("Input.txt",sep="\t",header=T,row.names=1,check.names=F)
